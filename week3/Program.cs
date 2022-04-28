@@ -7,14 +7,14 @@ namespace week3
        
             static void Main(string[] args)
             {
-                Console.BackgroundColor = ConsoleColor.Blue;
-                Console.WriteLine("Davit Tskepladze");
-                var input = Console.ReadLine();
-                Console.WriteLine(input);
-            
-        
-    
+                //Console.BackgroundColor = ConsoleColor.Blue;
+                //Console.WriteLine("Davit Tskepladze");
+                //var input = Console.ReadLine();
+                //Console.WriteLine(input);
+                
+                 Console.WriteLine("new change");
 
-}
+
+        }
     }
 }
